@@ -1,4 +1,5 @@
 📊 Sales Data Analysis Dashboard – Power BI
+
 This project provides a complete Sales Data Analysis and Reporting solution developed using Power BI. It includes data cleaning, transformation, modeling, and interactive dashboards designed to help businesses track sales performance, understand customer behavior, and make informed decisions.
 The dashboard offers clear, actionable insights such as top-performing products, sales trends over time, discount impact, and geographical sales distribution. Strong data modeling principles and optimized DAX calculations ensure accurate and efficient reporting.
 
